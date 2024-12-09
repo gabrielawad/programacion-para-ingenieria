@@ -1,0 +1,201 @@
+name,first_name,last_name,address,city,state,postcode,date_of_birth,phone_number,email,user_name,password,ipv4,ipv6,mac_address,domain_name,url,random_int,random_digit,pyfloat,color_name
+,Guadalupe,Mercader,"Pasadizo Gilberto Flores 46 Puerta 2 
+Salamanca, 16793",,,26400,1918-11-30,+34 877 08 24 64,felicidadolive@example.org,zgranados,,122.155.104.67,error_value,b6:fc:56:54:dd:37,joaquin.es,http://gelabert.es/,59,3,10000000000.0,Rojo indio
+Susanita Rovira Ros,Imelda,Artigas,"Pasaje de Máxima Farré 40 Piso 3 
+León, 15612",Castellón,,42481,1933-09-25,+34902206332,jose-mari15@example.org,bernardita40,G(W3SIg2#),108.205.101.157,721e:da72:fce:499b:ab2f:4c33:b0a4:68ac,76:0e:d7:73:25:e3,carina.es,http://www.hnos.net/,72,INVALID,30.57,Blanco nieve
+,Jose Antonio,Bonilla,"Camino Agustina Arregui 59
+Soria, 41988",Cantabria,Lleida,INVALID,1924-02-09,INVALID,patriciaolmedo@example.net,falmazan,(&3$TEmlkL,163.66.76.25,c623:541:9764:b297:e917:ad8a:bb6a:2cde,88:ec:6c:1b:57:a8,mineria.es,http://desarrollo.com/,17,INVALID,59.56,Rosa caliente
+Nicolasa Atienza Corral,Ágata,Iborra,"Calle Victoria Peiró 69 Puerta 7 
+Soria, 17177",Cuenca,Huelva,29555,1983-10-18,+34979423282,juliangeronimo@example.org,,j20YIfBz)U,20.162.188.127,error_value,error_value,soluciones.com,https://compania.es/,14,INVALID,27.33,
+Ariel de Saldaña,Jesusa,Ruano,"Camino de Margarita Marqués 44 Piso 6 
+Segovia, 10776",Málaga,Huesca,INVALID,2017-01-08,INVALID,beltrancarlota@example.net,caboconcepcion,,48.98.222.183,38ac:18b1:510f:bd4b:3d04:6b7a:40af:26,de:59:13:3f:f2:e9,error_value,http://www.transportes.com/,16,1,43.57,Rosa claro
+Alberto Pablo-Montenegro,Flor,,"Rambla Carmelita Garriga 88
+Granada, 32319",Guadalajara,Lugo,INVALID,2024-11-03,+34 981 23 86 52,qcastejon@example.com,,@N^3Kdv)nU,134.185.202.188,error_value,14:40:e3:f2:23:41,banca.com,error_value,51,6,51.9,Amarillo
+Jose Luis Verdú Linares,,Carreras,"Pasadizo Loreto Guerrero 7
+La Coruña, 05575",Barcelona,Barcelona,31670,1963-10-25,+34 985 216 646,,rosendo36,X%P73FVvE9,153.72.68.11,e298:9b0d:733a:2726:5535:932b:7a91:b2a2,00:ae:9f:f7:74:26,error_value,https://despacho.com/,INVALID,2,4.51,Púrpura
+Elisa del Pedraza,Chita,Tejera,"Urbanización de Sosimo Barriga 138 Apt. 43 
+Salamanca, 27622",Navarra,,03746,1993-09-30,INVALID,scordero@example.net,rpalau,$6tthUtBaH,error_value,27a5:4eff:a0e6:91a0:1d22:97a0:ff2b:44fe,error_value,hermanos.com,https://www.comercial.es/,88,4,86.82,Melón dulce
+Pacífica Beltrán Palomar,Piedad,Verdejo,"Ronda de Emelina Diéguez 7 Puerta 7 
+Málaga, 44116",Sevilla,Albacete,INVALID,1973-05-15,+34 986 277 263,carlitojulia@example.org,doroteasanz,)2iFG4f18P,163.170.192.247,38d3:f032:7f98:7ebe:cfe3:6b2e:cb28:ae2a,5e:c1:c6:c0:4a:23,error_value,https://www.servicios.es/,66,3,80.37,
+Julie Folch Valentín,,Seco,"Vial Gertrudis Novoa 66
+Las Palmas, 10581",,Huesca,12892,1936-09-24,+34973 049 154,,cabanasjosep,*^yBgsjWV7,69.138.210.209,e4d3:e917:5033:ea1f:b05f:a410:5246:85cd,72:a7:26:0d:c3:65,instalaciones.com,http://www.familia.com/,22,6,10000000000.0,
+Constanza Bravo Leal,,Alberola,"Cañada Jose Carlos Pavón 57
+Cantabria, 26772",Soria,Tarragona,49244,1969-07-30,INVALID,,,_KHdLNXZH3,error_value,1a58:24ce:81d4:6d04:ebf2:5ecb:d836:f434,b8:6b:ec:7e:1f:a6,error_value,error_value,91,7,20.38,Púrpura
+,,Torralba,"C. Mar Castell 61 Piso 9 
+Asturias, 19367",,Lugo,INVALID,1940-05-29,+34949 90 76 41,mosqueraolalla@example.net,corbachofrancisco-jose,!%0rZ@DgI_,191.123.119.135,213c:27de:b2b0:3ff7:505:c56d:797c:6de6,b2:e8:32:58:46:a8,balaguer.org,https://blazquez.com/,87,INVALID,31.2,Blanco concha
+,Corona,Carreño,"Paseo de Alba Tapia 397
+Toledo, 37583",Teruel,Las Palmas,17362,32-13-2022,+34727490683,almaclavero@example.com,gabino51,)1edLHovMz,30.91.222.192,e170:6ad7:2b58:cbee:adcf:c8d2:97ee:8b31,80:7e:e7:2a:47:1f,error_value,http://www.hnos.es/,40,INVALID,62.2,Cyan oscuro
+Chuy Rocamora Cañellas,,Redondo,"Camino Mariano Torres 4 Apt. 84 
+Albacete, 21662",Pontevedra,Burgos,18518,1970-05-03,+34980274474,estherpalomino@example.org,allerblas,u8+CzCqk_P,error_value,8d46:67ca:c218:9c2c:a22d:4e2a:7f07:7e01,error_value,alvarado.org,http://www.riquelme.com/,5,8,10000000000.0,Verde azulado
+Bienvenida Quiroga Lumbreras,Faustino,Varela,"Avenida Antonio Folch 9 Apt. 72 
+Badajoz, 24985",Burgos,Castellón,17525,1925-06-15,+34876 44 16 29,enriquezpaca@example.net,aliciaroma,3C!T3NLq4!,89.37.136.13,af58:3d5b:281a:3a49:f036:2e0:3ec9:1aa,66:21:d9:c7:8d:5d,fabrica.es,https://banca.net/,3,9,9.46,
+Priscila Villegas,Tomasa,Linares,"Ronda de Renato Salamanca 27
+Alicante, 02407",,Baleares,50600,1991-03-22,+34 823 93 15 72,gallosevero@example.org,ileanaacero,,error_value,4915:49ec:2717:604f:87bb:2ca:3f7:d891,e8:8d:66:50:ed:a2,peral.com,http://www.restauracion.net/,INVALID,8,12.64,Blanco encaje
+Amador Hervia Carbó,Samanta,Piñeiro,"Via Cayetano Verdejo 24
+Zamora, 13781",Ourense,,INVALID,2014-06-25,+34 846224564,ktorrens@example.com,hferrando,)^x7HJyNHI,error_value,error_value,3c:a5:7e:e2:7d:88,alimentacion.es,https://mineria.com/,29,2,54.62,
+Juan Carlos Marcos Figueras,Fermín,,"Acceso Rufino Medina 823 Puerta 2 
+Valladolid, 10423",Toledo,,10696,1996-12-08,+34 825 018 101,,pedrogomez,(#%9MXecj$,99.10.199.122,6b65:7109:9c3f:ee1f:8a51:310d:9006:bab8,72:24:09:11:0a:17,error_value,https://www.puig.es/,8,1,35.9,Naranja oscuro
+Jenny Roselló Flores,Haroldo,Carrasco,"Vial Ámbar Farré 916
+Baleares, 50988",Badajoz,Cáceres,06587,2007-08-31,+34923360424,,pablojerez,)3qfF2Rae&,214.28.193.182,4df4:d66b:5e49:204c:799e:a6e6:357d:3395,error_value,farmaceutica.org,http://construccion.com/,89,9,50.51,Cian clarto
+,Trinidad,Alcalá,"Via de Bernardo Lago 7
+Alicante, 49149",Murcia,Asturias,28255,1924-07-23,+34 884 20 95 93,cerezoisabel@example.org,,_tSpZhd864,209.74.52.25,e985:e36:40c9:57b2:ae87:bf92:3bd3:13ba,8c:91:92:51:14:f7,itziar.es,https://www.hermanos.com/,52,7,60.81,
+Leoncio Francisco,Marita,Egea,"Acceso Ofelia Gargallo 41
+Lugo, 12663",Córdoba,Málaga,22112,1983-12-28,+34715 068 985,,edelmiroorozco,h*VV+lYS+5,180.16.8.188,e5f3:6132:eef1:1c8b:8468:be05:2bff:671a,c8:65:a0:8b:e4:3a,instalaciones.com,https://logistica.com/,38,8,62.77,Coral
+Gustavo Blasco Morcillo,Mónica,Acero,"Pasadizo de Ariadna Rincón 94 Apt. 16 
+Madrid, 18239",Toledo,Santa Cruz de Tenerife,24806,2012-08-10,INVALID,escalonasilvio@example.com,marta89,,21.131.223.194,1f95:f284:4e76:efbd:7b54:3a04:ee1:c4e8,de:16:c6:26:04:b4,hnos.org,https://www.construccion.es/,53,2,60.42,Rojo carmesí
+Natividad Llanos-Martinez,Baldomero,Figuerola,"Pasadizo Adora Vazquez 187
+Vizcaya, 09885",Málaga,Las Palmas,INVALID,2005-05-19,INVALID,balduino73@example.net,barrigaani,,error_value,1199:31c7:40a3:4c92:226f:759f:225e:1ef3,error_value,hermanos.es,https://www.ramos.com/,44,INVALID,1.24,Verde mar oscuro
+Sergio Sola Varela,Hernando,Pereira,"Pasadizo de Cebrián Becerra 72
+Segovia, 48710",Salamanca,,27563,1946-02-24,+34826 101 821,salazarviviana@example.net,,&$&51JgbHp,error_value,84a:4bd:f83e:a6d0:452e:c7a7:a68:fbd6,00:0f:f9:6f:dd:bd,familia.org,error_value,INVALID,INVALID,62.54,Azul oscuro
+,Candelaria,Company,"Glorieta de Rafaela Bosch 74
+Ceuta, 10747",La Coruña,Santa Cruz de Tenerife,13719,1912-01-14,+34845727864,moralesmerche@example.com,domingolluch,,108.110.172.255,error_value,c6:c8:d3:f4:8d:ac,construccion.org,error_value,100,INVALID,37.73,Marrón rosado
+,Miguel,,"Vial Maximiano Gras 6
+Ávila, 46012",Melilla,,INVALID,1916-08-28,+34949 08 44 95,marc36@example.net,arsenio19,T6jZzsZo(V,55.180.4.8,e238:5b28:be31:43ea:1f7b:4787:d201:5b1d,72:c0:e0:5d:d8:66,error_value,error_value,31,INVALID,5.37,
+Adriana Roxana Ureña Llorente,Juan Manuel,Artigas,"Urbanización Violeta Escalona 20
+Castellón, 20058",Ávila,Cádiz,30990,1963-09-13,+34703 585 240,scabeza@example.com,xtomas,!+7jOT!eQ_,125.176.70.18,e6dd:19ee:2a96:db07:e3b0:c124:96c3:c95b,e2:f2:4a:2c:ef:54,infraestructuras.com,http://fabrica.com/,INVALID,5,10000000000.0,Gris gainsboro (Estaño)
+Rolando Aguado Cerdá,Febe,Cañas,"Paseo de Olga Azcona 403
+Almería, 18492",Murcia,,36807,32-13-2022,+34845511939,chuy08@example.com,,,198.40.46.201,e14c:f5f6:49bb:4ca8:bbd6:1c9:9b47:f4a7,92:05:e4:e9:cf:6d,suministros.es,http://restauracion.es/,INVALID,2,10000000000.0,Marrón rojizo
+Fito Carballo Pina,Reina,Rey,"Calle Jordana Guerra 96
+Castellón, 23876",Melilla,Zaragoza,15042,1916-04-09,+34 942785049,,adrianavarela,b)3J%#r%wg,36.249.79.50,ea46:5066:fdb7:13fb:9c97:d8ad:d2d7:7215,error_value,error_value,https://hnos.org/,49,7,10000000000.0,Blanco floral
+Teobaldo Sancho Español,,Pujadas,"Acceso de Luís Hidalgo 7
+Zamora, 51518",Ciudad,León,INVALID,1980-12-30,INVALID,benigna33@example.net,encarnacionpulido,#2cAm^CrqF,56.64.249.195,ca20:9f5b:4acd:2045:e113:5431:35e7:44dd,e2:42:94:43:08:24,pino.org,https://www.vergara.com/,70,5,65.66,Salmón claro
+Natividad Bertrán Abascal,Domitila,Lobato,"Pasaje Elisa Duarte 97 Piso 8 
+Madrid, 17153",La Coruña,Valladolid,50385,1982-12-05,+34 958057096,,felix40,!k_CO0WoEd,69.83.72.163,5273:6347:cb10:42b:b594:8207:641f:54c0,ae:c7:48:cd:84:77,grupo.es,http://nogueira.es/,99,3,10000000000.0,Orquídea medio
+Víctor Camino,,Losa,"Pasadizo de Macario Ramis 698
+Ciudad, 32737",Granada,Toledo,42659,32-13-2022,+34887 061 771,botero@example.org,primitivaparra,+DROO_+7s1,44.184.21.90,9be:4e2c:c0f6:1b58:70db:d23a:6ea5:662,44:2f:c2:ef:db:e6,sancho.es,error_value,20,INVALID,84.88,Marrón madera rústica
+Graciela Uriarte Segovia,,Tamarit,"Vial de Amelia Falcón 5 Apt. 52 
+Valencia, 20289",Santa Cruz de Tenerife,,50404,1976-03-17,+34974725263,chustolosa@example.org,,!BG^1Bnx(#,72.121.168.218,error_value,48:20:cb:fb:57:76,melchor.com,https://desarrollo.es/,26,9,99.8,Ciruela
+Cristian Arana Sanchez,,Herrera,"Calle Nazario Olmo 70 Apt. 29 
+Málaga, 28560",Girona,Toledo,30818,1935-01-20,+34 974 99 73 04,maxi86@example.org,lorenzotoni,j)K!6I6hQH,215.72.226.176,26d8:39c2:33ff:1434:f2f1:242c:ab6e:ae9f,e8:ad:d8:fd:a5:44,hotel.com,error_value,INVALID,INVALID,10000000000.0,Marfil
+Eusebio Ortuño-Larrañaga,Gema,Cid,"C. Bibiana Cortés 343 Apt. 79 
+Cáceres, 25986",Salamanca,,INVALID,2007-07-25,+34 839 534 225,dario75@example.org,fabregatcarlota,uT_a6Cwb)i,error_value,bbca:bdc9:2e3e:8958:b929:4426:2b64:7db9,62:90:9a:a1:90:7c,infraestructuras.es,error_value,INVALID,4,10000000000.0,
+,Susanita,Carvajal,"Calle Andrés Felipe Jáuregui 6
+Lleida, 18580",Pontevedra,Navarra,26044,1938-09-07,+34723580849,arsenio67@example.net,manjonesther,_4H&Q!Xfk3,141.223.61.15,3eb2:e3e9:3ae4:36f8:f3c6:51ab:7965:39c4,c2:24:a8:5f:e5:a7,servicios.net,http://cardenas.es/,74,4,43.13,Gris pizarra
+Ileana Gil,Trini,Ballesteros,"Rambla de Encarnación Peña 43
+Guipúzcoa, 05472",Pontevedra,Málaga,29027,1945-02-02,+34 866 097 456,juan-luis56@example.net,ayalaafrica,yAC(jEbL!3,30.164.247.199,error_value,96:10:9b:51:9d:5e,luz.com,https://www.plana.es/,82,7,48.79,Azul acero claro
+,Dionisio,Benavent,"Urbanización de Carina Cadenas 47
+Cádiz, 20613",Castellón,Melilla,04459,32-13-2022,INVALID,lorena47@example.net,yroldan,u46OPNjf#o,221.70.214.119,173:f0cf:a794:a470:eac5:a788:9b11:c214,ce:bd:af:32:39:85,nicanor.es,http://lobato.net/,INVALID,INVALID,58.69,Turquesa pálido
+Félix Martinez Carranza,Mario,Gaya,"Via Bibiana Colom 37
+Valladolid, 28274",,Álava,INVALID,1961-11-05,+34 845476083,,eulalia59,(oE2Pgh568,171.228.170.230,a28c:5493:a47:7442:81bb:1f32:22be:56ad,32:b4:66:bf:e5:8e,error_value,error_value,40,0,24.53,Amarillo
+,Felix,,"Avenida Juan José Arias 673
+Ciudad, 25080",Córdoba,Burgos,INVALID,32-13-2022,+34 948815043,guillermomendez@example.net,,,9.9.143.108,b6ba:ddfb:fffc:8399:22e8:818:3a06:c778,error_value,crespi.com,https://salud.es/,77,3,33.44,Amarillo claro
+Ligia Camino,Inmaculada,Sanz,"Pasadizo de Maribel Zapata 234 Piso 2 
+Valladolid, 46052",Castellón,Guadalajara,INVALID,32-13-2022,+34 824239362,augustodavila@example.com,,,155.127.100.16,c125:80f4:aed4:cebd:6f70:2036:a88:f7ed,7e:36:96:55:da:c7,hermanos.org,error_value,46,4,10000000000.0,Chartreuse
+Fabio Nebot Bonet,Rosalva,Prats,"Alameda Morena Real 89
+Valladolid, 20904",Ciudad,Girona,02730,1973-03-18,INVALID,gadadia@example.org,rita21,)9&O&rij3S,63.83.190.18,36fb:3ca9:3341:dc0b:1a2c:76ae:9569:9673,error_value,farmaceutica.es,https://farmaceutica.es/,96,INVALID,59.71,Caqui
+Benjamín Porcel Escobar,Rosario,Aranda,"Rambla de Gerónimo Narváez 18 Puerta 2 
+Santa Cruz de Tenerife, 32417",Vizcaya,Ourense,13942,1990-09-28,+34882637506,qcarreno@example.com,dionisio79,+sC@BprP9%,7.219.100.170,2312:45a2:cea4:9003:6468:2148:e199:b75e,error_value,cerezo.com,error_value,INVALID,8,10000000000.0,Azul polvo
+Estrella Dalmau Piñeiro,Pascuala,Espada,"Pasaje Nazaret Alemán 95 Piso 2 
+Jaén, 07734",Albacete,Teruel,01376,2001-06-02,+34 927193152,urenapurificacion@example.net,rosario90,Lm%k3nUh_5,103.57.253.220,2916:a2f8:c5a9:74e1:fa3a:17de:bc7d:1fc6,ea:d3:8b:fe:60:0c,gascon.es,https://www.familia.com/,INVALID,7,76.13,Violeta oscuro
+Saturnina del Esparza,Nilo,,"Avenida de Angelita Abad 36 Piso 8 
+Cantabria, 05758",Girona,Granada,45882,32-13-2022,+34 739 86 98 12,duranaitor@example.org,jose-luisgodoy,w3IpnEHx(b,125.154.176.87,error_value,34:35:8d:22:a6:2f,servicios.com,http://www.finanzas.es/,13,4,98.36,Beige melocotón
+Nilo Valls Cadenas,,,"Camino de Tere Tejero 93
+Salamanca, 14848",,Huelva,INVALID,1923-09-16,+34 972366808,bpelaez@example.com,qpina,,205.176.153.194,24b4:e4ed:870e:b221:9207:756c:ef08:e67b,24:81:51:f7:a1:ce,error_value,http://desarrollo.es/,60,INVALID,10000000000.0,Verde azulado
+Gastón Checa,Amador,Bonilla,"Alameda de Adelardo Mas 542
+Navarra, 14955",Badajoz,Málaga,25109,1954-03-10,+34821217330,,,)2+)!AKHeq,159.199.111.72,2548:1972:d90b:dd22:ab5f:cd71:2c01:d91d,a4:f9:21:d1:2f:74,soluciones.com,error_value,63,4,33.66,Blanco
+Piedad Canales Acuña,Gerardo,Aragonés,"Glorieta Mireia Santamaría 154 Piso 2 
+Lugo, 35465",,Ciudad,17666,2008-09-27,+34 845 26 46 13,adelardo92@example.com,irenesaavedra,@5RoQeor2w,174.67.16.102,484b:9819:7ef1:779:4f84:2786:448e:9bbd,1e:89:00:7c:96:f4,supermercados.net,error_value,INVALID,INVALID,86.47,Marrón rosado
+,Elpidio,Piñeiro,"Via Dorotea Bello 49
+León, 13487",La Coruña,Zamora,21380,1990-06-16,+34 833235169,vera99@example.net,piocampo,nuhb_9CJ(%,78.77.151.34,2856:b017:ec12:31df:b341:14be:5493:99c4,error_value,manufacturas.org,https://www.primitivo.es/,2,6,10000000000.0,Gris gainsboro (Estaño)
+Maxi Noé Carro Ruiz,Eliana,Palau,"Ronda de Francisca Acevedo 63 Apt. 61 
+Albacete, 09913",Salamanca,Lugo,INVALID,1999-11-24,INVALID,florinatome@example.org,,^4Yu(5ONDw,107.160.200.128,afc1:687d:8ef0:9284:7f82:7a8c:8498:1f03,ba:af:d1:36:c5:ca,error_value,http://www.hermanos.com/,82,INVALID,85.4,Azul anciano
+Trinidad Gomis Palmer,Maxi,Espada,"Plaza Augusto Expósito 34 Apt. 23 
+La Coruña, 49985",,,42413,1971-09-23,INVALID,bminguez@example.com,,W23*fGLM^l,16.120.155.49,1356:e480:6b1d:2518:d97f:fe77:6c27:833,error_value,manufacturas.org,http://www.logistica.es/,97,1,10000000000.0,Amarillo verde
+Cleto Calvo Gomila,Hermenegildo,Cerdán,"Callejón de Gastón Vall 76 Puerta 6 
+Jaén, 25622",Tarragona,Pontevedra,INVALID,1984-01-09,INVALID,david22@example.org,dduenas,c3C_yzPU^A,error_value,9135:968a:261b:63f7:a192:f093:469:1349,0a:d0:d6:6e:e7:e7,grupo.es,http://www.segui.es/,INVALID,5,42.2,Marrón rojizo
+Efraín de Rosa,Teresa,Guijarro,"Acceso Daniel Zabala 8
+Jaén, 41863",Asturias,Lleida,INVALID,2013-01-08,+34886 677 553,,eloy84,523OLX3a@6,221.158.115.153,7ef4:8a8d:f29a:60cb:9898:20d8:b9c3:d014,0a:ff:cb:10:22:a7,soluciones.com,https://severino.es/,98,6,6.83,
+Felicidad Prudencia Caballero Roig,,Osorio,"Callejón Maxi Mariscal 138 Piso 5 
+La Rioja, 07829",Ourense,Guipúzcoa,27318,2009-11-27,+34 944 578 181,paz34@example.net,,qf8O8sW5k*,error_value,error_value,98:66:f6:7d:a5:fd,fabregas.com,https://inmobiliaria.com/,17,1,54.78,
+,,Colomer,"Callejón de Tomás Calvet 41 Piso 6 
+Palencia, 36184",Baleares,Badajoz,47406,32-13-2022,+34 847 712 949,,esanabria,mF!I#^Cj(4,error_value,ed23:7492:245d:94ea:715:30b1:b492:7951,a0:34:b9:ad:da:ed,talleres.com,https://www.comercializadora.org/,46,3,28.55,
+,,,"Pasaje Noelia Clavero 4 Piso 3 
+Barcelona, 48654",Albacete,,27667,1939-07-01,INVALID,javialbero@example.com,sanchocrespi,,106.29.169.125,cb77:3208:ef6b:9be2:4154:2623:3e2b:105f,error_value,inmobiliaria.com,https://www.instalaciones.es/,71,5,61.69,
+,,Terrón,"Cañada de Aarón Villaverde 425 Piso 3 
+Albacete, 51541",,Burgos,17439,2017-11-26,+34 844856372,emmaroma@example.net,avilayolanda,QC^71SDd)y,22.175.132.143,ff3d:cfa1:f043:11d3:7bca:5436:d216:a697,error_value,error_value,error_value,46,INVALID,61.88,Beige mocasín
+Moisés Corral Fabra,Chita,,"Avenida de Benito Mariño 53 Piso 1 
+Salamanca, 19637",Madrid,Álava,INVALID,1919-11-06,+34900673085,geraldo61@example.net,albano78,5$32PrHhxe,115.188.16.181,7f94:2ad:5fa:5492:9117:1911:e19c:8341,b0:ba:2a:00:a6:75,mineria.com,https://supermercados.es/,3,INVALID,10000000000.0,Verde limón
+,José María,,"Vial Lino Bayón 284 Puerta 8 
+Álava, 22928",,Ciudad,INVALID,2007-10-31,+34 975768074,taniamiralles@example.net,paulahurtado,D2IkRY))(v,102.170.48.174,bbc5:22fa:dd57:e74c:785b:e97e:d7d0:a395,ee:7f:c4:a3:45:4e,flor.org,error_value,87,8,37.58,Amarillo verde
+Maristela Hernandez Millán,Berta,Mendizábal,"Calle de Natividad Caparrós 373 Apt. 58 
+Segovia, 27722",Almería,,27067,1937-05-31,+34 920 11 26 25,boliver@example.net,torrecillasalome,W3r^1(SbJV,86.159.170.240,f74c:4ec5:df03:f7d8:4219:112a:8462:5c84,ca:ee:c8:24:db:62,distribuciones.org,https://www.tecnologias.com/,48,2,71.9,
+Pablo Valenzuela Ramirez,Hermenegildo,Vila,"Cuesta Tania Toro 60
+Almería, 38100",Cáceres,,04689,1915-04-05,+34 981 14 57 54,linaresalicia@example.org,ctejera,&*3AU7cgzJ,166.130.39.46,f19f:d1fb:eaea:b29d:1ca3:aab7:a429:532e,02:14:ed:38:ec:86,hnos.org,http://www.familia.com/,63,INVALID,18.62,Azul pizarra
+Hipólito Tirado Arenas,Fermín,Oliver,"Calle de Nuria Castilla 60
+Las Palmas, 45731",Soria,Cáceres,35780,32-13-2022,+34947691696,,valero37,&7JKxB_zX4,error_value,3fc5:f8a9:3887:bab3:ed8b:ef42:6d30:5295,error_value,hotel.es,error_value,92,7,8.1,
+Ileana Gomis Linares,Cesar,Polo,"Cañada de Dafne Cepeda 47 Puerta 6 
+Ourense, 36353",,Madrid,06008,2021-01-29,+34888 20 47 69,,alfaropedro,2#5F5Twnfo,14.165.191.181,506c:c2b8:b765:1f08:26c6:a668:1480:1fc,9a:33:5c:47:3a:14,juan.com,https://www.instalaciones.com/,INVALID,0,71.41,Amarillo verde
+Olivia Gomis Valenciano,Obdulia,Donoso,"Calle Heriberto Villegas 98 Apt. 28 
+Palencia, 24811",Granada,,44749,1995-02-28,INVALID,bsosa@example.com,,%_cxBxkpd1,21.83.244.117,6034:ee9b:623f:151d:b029:374b:701c:d1e7,error_value,error_value,https://grupo.es/,6,INVALID,2.91,Rosa caliente
+,María Jesús,Rebollo,"Alameda de Fabiola Silva 35
+Baleares, 42070",Castellón,,01273,1953-05-12,+34 979 352 767,barocelso@example.com,demetriopalacio,(0CR3HCmg_,143.130.190.166,fd98:898e:4467:429c:5880:1735:94c2:1e03,f6:c1:69:3d:c2:19,error_value,https://www.compania.com/,57,7,45.1,Turquesa
+,Goyo,Reig,"Cañada de Benjamín Vera 76
+Ciudad, 28632",,Málaga,14611,2022-12-05,INVALID,amador95@example.com,jeronimo51,dyPyhz3c&9,181.204.114.73,7d8a:a5eb:1308:92d2:c06b:63fa:4f42:2ef6,38:b4:67:0a:0d:9a,error_value,http://hnos.es/,INVALID,3,10000000000.0,Verde prado
+,Sancho,,"Alameda Leonor Aznar 76
+Ciudad, 22959",Pontevedra,Álava,05685,1970-04-03,INVALID,reneosuna@example.org,,UHYcBYcZ$6,156.223.70.2,3284:6e84:face:9918:8f14:563:a34c:142,e4:1f:e5:a1:06:f6,error_value,http://soria.com/,14,7,10000000000.0,Rosa caliente
+Inmaculada Campos,Merche,Ramis,"Acceso Socorro Huertas 12 Piso 8 
+La Coruña, 14981",Guadalajara,,17432,1960-10-13,+34985683193,juan-manuel46@example.net,zaragozamanu,%0AdN)Cw)9,123.122.76.201,9bfe:1716:db1f:9841:e507:f61c:d1e8:eced,error_value,familia.es,error_value,21,INVALID,66.19,
+Nerea Blanco Villegas,,Beltrán,"Cañada Dionisia Morell 9
+La Coruña, 46396",Navarra,Valencia,01426,1940-11-05,+34866 388 567,ferrandezflorencio@example.com,vidalortuno,f!PL8pKjv&,17.121.230.92,bdc:c726:eaf5:164b:1725:fa03:bcdd:fa1c,0a:e2:cb:2e:81:bd,error_value,error_value,86,6,9.78,Beige papaya
+,Eusebia,Frutos,"Avenida de Adelardo Adán 74
+Cádiz, 49720",Teruel,Navarra,42228,1991-09-13,+34 922 346 329,iborrajacobo@example.net,olmedomaria-angeles,,136.178.221.166,error_value,1c:ce:e7:71:6e:70,despacho.es,https://www.carlos.com/,78,5,52.69,Azul oscuro
+Jose Cordero Osuna,José María,Llobet,"Avenida de Evelia Nicolau 75 Puerta 4 
+Álava, 09381",Valladolid,Teruel,36375,1981-05-21,+34981148146,noguesjesus@example.net,lorenzaoliver,@6U!I2sR$!,188.3.214.251,82fc:395a:f01d:abf5:94f0:cf3a:ed38:7262,56:b0:4b:b0:1d:02,inmobiliaria.es,https://farmaceutica.com/,21,9,54.71,Azul cielo
+Alonso del Gallart,Miguel,Goñi,"Paseo Tere Martí 9
+Cáceres, 01910",,Lugo,27017,1940-07-20,+34863331941,ogiralt@example.com,ballesterosgerman,inBq5CHg@),84.221.74.169,625b:4efa:daf1:e4c7:a04e:6115:4303:aa07,b2:11:08:eb:72:8c,inversiones.com,error_value,28,8,10000000000.0,Verde pálido
+Rubén Buendía Soto,Bautista,Fortuny,"Cañada Carmelo Doménech 2 Apt. 08 
+Madrid, 37548",Córdoba,,32175,32-13-2022,+34835 62 82 32,kcarreras@example.net,olegario64,+4$RPGC3Ue,139.95.252.67,e046:918f:4d19:842d:c54b:2d20:2136:a7a6,d2:93:fd:4c:ab:04,inmobiliaria.com,https://www.dulce.com/,INVALID,INVALID,10000000000.0,Azul cielo claro
+Araceli Blanco Agudo,Clementina,Marín,"Calle de Juliana Pina 41
+Valladolid, 27602",Ceuta,Toledo,INVALID,1984-04-07,INVALID,lucila12@example.net,azahara55,@^mKa4olb8,35.118.136.207,c51d:9758:62c4:e408:e8d1:cf21:2ed2:5ce4,56:fd:55:f2:25:1f,promociones.net,https://inmobiliaria.es/,INVALID,7,69.15,Violeta cardo
+Fabián Chaparro Guardiola,María,Angulo,"Alameda Juan Francisco Conde 43 Apt. 17 
+Álava, 30821",,La Coruña,INVALID,1972-12-18,INVALID,carranzajose-angel@example.org,nuriaflor,,163.152.26.151,e105:8e1b:538a:b80b:67a:c81e:59ad:64c8,9a:0d:47:ec:1b:27,martinez.com,http://www.infraestructuras.com/,57,7,37.96,Blanco humo
+Melania Dominguez Pinto,Cosme,Riquelme,"Alameda Calixta Marin 624
+Girona, 41966",Segovia,,50745,1997-06-02,+34 979 044 358,robertaagusti@example.net,nydiablanes,,22.199.89.235,447b:3158:32c5:6191:2d0e:6b8e:df11:3cf5,error_value,velez.com,error_value,19,5,41.18,Verde claro
+Óscar del Cañas,Pablo,Bolaños,"Camino Eusebio Olmo 2
+Barcelona, 27691",Álava,Zamora,INVALID,2020-07-10,+34 973 02 45 95,zcaro@example.net,doritapintor,*7XRxOjdLo,198.119.33.65,38cc:7507:5784:3b12:9f22:ca2:91dd:c48a,f6:d7:67:8a:fb:39,desarrollo.com,http://marcos.com/,INVALID,7,30.49,
+Melchor Silva,,Roca,"Acceso Carmen Acevedo 14
+Burgos, 13767",Tarragona,Pontevedra,25070,1958-11-15,+34983 80 47 68,cristiangarzon@example.com,saritamelendez,F9bRxmOv#+,154.73.48.146,3d1:aa84:720c:b710:7064:3468:ffc5:3fa1,error_value,hotel.es,error_value,14,INVALID,75.84,Verde claro
+Anastasia Guardiola Enríquez,Dalila,Andres,"Urbanización de Hernando Quevedo 9
+Málaga, 09928",Baleares,Sevilla,26065,1945-04-04,+34945238668,,tonibru,9^67Ov1X)$,183.34.111.136,4d52:720b:9273:14a1:ad39:9d9b:193d:3ad0,error_value,error_value,http://www.alimentacion.com/,INVALID,6,74.77,Verde lima
+Angelita Cañas Calderon,,,"Rambla de José Luis Bilbao 59 Puerta 2 
+Asturias, 34064",Melilla,Madrid,INVALID,1964-05-23,+34719 876 683,arocaflora@example.com,godofredocrespi,N0QVzfdy!2,220.32.1.5,a3f5:4b85:fb03:445e:9303:57ae:1665:4826,26:0e:8e:a7:f9:9a,pellicer.es,http://www.recio.com/,INVALID,5,10000000000.0,Coral claro
+Rosa María Cuevas Sáenz,Evaristo,Puig,"Ronda Jesús Ariño 22 Piso 1 
+Cantabria, 48213",,,29694,32-13-2022,INVALID,carmelita43@example.com,celia47,p88zcO9m*B,97.5.45.147,2263:4269:fcc7:444f:9e20:38d4:4a71:d336,78:d6:0d:4b:b9:ba,vilaplana.com,http://barrio.com/,INVALID,9,10000000000.0,Blanco fantasma
+Iván Gomis Almagro,Fermín,Tamarit,"Pasaje Tomasa Estévez 960
+Burgos, 40856",Valencia,,18047,1962-07-12,INVALID,gsebastian@example.com,,+!2QYskt%u,181.251.87.135,575e:1583:58c5:841e:2a07:a8bc:9967:61f7,error_value,eleuterio.es,https://www.restauracion.com/,INVALID,4,56.4,Azul polvo
+Pánfilo Manso Salamanca,,Vilaplana,"C. de Regina Posada 5
+Cádiz, 49539",Vizcaya,Zaragoza,27997,1969-09-29,+34 875173951,ferrandoluis@example.com,paolabueno,,error_value,d040:c98:19e6:3330:284a:7c2b:6b2e:6816,9e:c2:82:72:d9:33,barral.com,http://www.bernal.com/,26,INVALID,10000000000.0,Rojo tomate
+Fulgencio Torralba Palau,Etelvina,Corral,"Acceso Renata Cazorla 502
+Albacete, 17882",Málaga,,27494,1984-02-02,+34876 653 273,emilia34@example.org,ortunomarciano,5ZP7Qs^H(%,2.101.92.19,b260:387:51c:6aa8:f24b:2457:8702:9192,84:e0:23:4e:d7:fe,olmedo.org,https://www.industrias.org/,43,INVALID,58.39,Plata
+Jerónimo Pinilla,Anastasia,Melero,"Vial Fortunata León 14 Apt. 04 
+Valencia, 32913",Ávila,Castellón,26562,1964-08-07,+34 900963364,jportillo@example.net,mcabrero,IGa4r4ngk),154.80.22.96,c320:bf9b:fa69:76bc:8eda:8600:17b0:263b,c6:53:ae:12:fe:0d,farmaceutica.com,https://www.casanova.org/,12,5,65.69,Orquídea
+Pánfilo Basilio Arcos Crespo,Inés,Barba,"Pasadizo de Consuela Cuenca 4 Piso 2 
+Las Palmas, 25466",Álava,Tarragona,INVALID,32-13-2022,+34 877 82 89 62,agatacanellas@example.net,jordan94,kvNGbjpk_8,error_value,error_value,2e:29:1d:30:d4:27,torralba.es,http://distribuciones.es/,68,INVALID,2.8,Azul polvo
+,Fabián,Alcalde,"Callejón de Ceferino Benitez 478
+Madrid, 27926",Palencia,Tarragona,INVALID,32-13-2022,INVALID,escribanoalicia@example.com,joaquinllano,_slJfXZti6,error_value,790a:6e53:4f0d:9d4b:454a:90fc:5339:2f43,f8:8b:e0:5f:08:40,marcial.org,https://familia.es/,89,0,75.13,Púrpura medio
+,Alejandra,Ávila,"Pasadizo Feliciana Viana 9 Puerta 2 
+Soria, 25115",Alicante,Palencia,INVALID,32-13-2022,+34806 952 940,silvestrecordero@example.net,gfernandez,vDfM4iqo&_,82.132.91.134,a2d6:855:e5ac:2f61:4a7f:e940:4eed:2e9c,error_value,canellas.com,http://www.estela.com/,INVALID,2,82.82,Verde mar claro
+,Virginia,,"Paseo Julieta García 2 Puerta 4 
+León, 46221",Sevilla,Valencia,11795,32-13-2022,+34 972 920 387,,casalsamu,%!2NuchVI_,91.135.164.75,3b80:53f9:341c:1c90:7d5f:1af9:8836:ceb1,error_value,aurora.es,error_value,40,INVALID,73.67,Azul cadete
+Carina del Aller,,,"Cuesta de Rico Pina 795
+Asturias, 35876",Cantabria,Ourense,26063,32-13-2022,+34 921 01 99 24,jonatan83@example.org,,,error_value,error_value,error_value,error_value,https://dionisia.com/,4,9,20.55,Gris pizarra oscuro
+Ruperto Barón Cortes,Heriberto,Valderrama,"Paseo de Paulina Llorens 79 Piso 9 
+Lugo, 25678",Cáceres,,37695,2009-11-25,INVALID,,madridsaturnino,!3!y9V4p4N,error_value,7d0c:94a0:9ebc:3f7a:119:65e9:1112:4b4e,84:2c:7a:dc:1b:37,transportes.com,https://familia.es/,22,1,10000000000.0,
+Pedro Donoso Maza,José,Rivera,"Callejón de María Luisa Armengol 46 Apt. 15 
+Girona, 18636",Murcia,La Coruña,36587,1917-02-13,+34845213382,,pascual12,^)Bp_XDZR4,64.159.15.138,703c:3c10:b835:340c:2d3d:8ee6:1019:f8ed,error_value,briones.es,error_value,6,6,99.15,Orquídea
+,Cebrián,Losada,"Avenida de Marino Rueda 38
+Guipúzcoa, 35362",Teruel,Zamora,30621,1912-11-09,+34 820 647 651,matasluisa@example.net,mendozacarmen,P+_*0Sd@6#,118.34.101.21,6485:fb21:23b0:3c44:d997:413:4857:8f83,9c:f9:68:fb:57:27,error_value,error_value,55,3,10000000000.0,
+,Dolores,Prieto,"Cuesta Nando Antón 56 Piso 3 
+Álava, 34816",Pontevedra,,23222,2004-11-27,+34822 36 89 40,,cristobalsilva,o)7DowcM&x,175.206.111.103,507b:ac18:6ca7:7579:7ca9:3656:3965:f899,error_value,juan.com,error_value,51,8,85.99,Turquesa medio
+Virginia Menendez Merino,Miguel,Andrade,"Cañada Amado Carrillo 518 Apt. 94 
+Cantabria, 41588",Badajoz,Lleida,INVALID,2011-12-13,INVALID,ovillaverde@example.net,guitartfederico,5SC1M0YdA(,84.32.103.59,ac10:5d8f:e013:76d1:603b:31d:e4d1:4906,14:5a:52:6c:f4:16,inversiones.es,https://www.arnal.com/,75,INVALID,74.89,Azul marino
+Cornelio del Osorio,Amada,Armas,"Avenida de Edelmira Vazquez 51 Piso 8 
+Álava, 28910",Las Palmas,Madrid,INVALID,2003-02-16,+34882397751,jordabaldomero@example.net,,A(Ju91_0^3,137.129.82.134,4f03:e887:7cf6:7267:b2eb:5606:d34f:b3e4,error_value,error_value,https://www.distribuciones.org/,7,INVALID,10000000000.0,
+Genoveva Giner Tenorio,Marcos,Muro,"Cuesta de Agustina Uría 467
+Valladolid, 29050",La Coruña,Alicante,05287,1984-02-22,+34941091402,,,59vIf^xr&n,17.237.166.64,c107:939:f249:4071:fc7b:2e90:87f9:57e9,1e:e6:89:e4:d6:d4,instalaciones.com,http://www.construccion.es/,INVALID,4,84.67,Azul cadete
+Alexandra de Palau,Horacio,Goicoechea,"Urbanización de Jose Francisco Villegas 85
+Lugo, 47002",Melilla,Navarra,27431,2008-04-29,+34 874112448,gbarrio@example.net,hilarioosorio,wqcH&2YbNj,152.186.151.154,5d6f:2a73:dfc7:b25d:655f:5503:a731:f0bf,5a:c4:9d:42:d3:44,hnos.es,https://www.logistica.es/,11,6,90.27,Violeta
+Mirta Ureña Manzanares,Dani,Bonet,"Camino de Alba Sala 4 Apt. 67 
+Cuenca, 05227",Guipúzcoa,Badajoz,39035,1961-08-24,INVALID,lladohortensia@example.org,aandrade,%VLyi207#8,97.209.0.244,a6e7:9675:12dc:cd5d:eb18:b166:152:e77b,88:90:61:dc:57:74,mineria.es,https://www.mateu.es/,97,9,74.93,
+,Rodolfo,Ródenas,"Urbanización Juanita Rozas 9 Puerta 9 
+Lleida, 03169",Segovia,Huelva,06179,1935-04-07,+34888464692,natividadmas@example.com,lopezisidro,&VKLphhFd2,error_value,114c:1d5c:bc6c:fe92:706e:2541:a4ec:da56,32:b1:15:f9:76:79,hermanos.org,error_value,41,0,10000000000.0,Turquesa
