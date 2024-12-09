@@ -1,4 +1,4 @@
-name,age,email,salary,join_date
+nombre,edad,email,salario,fecha_ingreso
 alice smith,30.0,alice@example.com,50000.0,2022-03-15
 bob gray,17.0,bob@not-an-email,60000.0,invalid-date
 charlie brown,,charlie@example.com,-1500.0,15-09-2022
