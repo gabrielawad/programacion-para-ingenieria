@@ -1,0 +1,101 @@
+Fecha,Usuario,Texto_Publicacion,Sentimiento,Hashtags,Menciones,Likes,Retweets,Ubicacion,Tema
+,Usuario77,La Política es un desastre. Me siento enojado.,Negativo,"#Política, #Política, #Política","@Usuario84, @Usuario66",767.0,473.0,Bogotá,Entretenimiento
+2021-02-27,Usuario35,La Entretenimiento es un desastre. Me siento decepcionado.,Negativo,"#Política, #Deportes","@Usuario90, @Usuario36",959.0,214.0,Barranquilla,Tecnología
+2021-10-20,Usuario55,La Salud es un desastre. Me siento triste.,Negativo,"#Deportes, #Política","@Usuario70, @Usuario51",350.0,72.0,Barranquilla,Salud
+2021-07-10,Usuario32,La Entretenimiento es un desastre. Me siento triste.,Neutro,"#Política, #Política, #Tecnología",@Usuario38,217.0,384.0,Cali,Entretenimiento
+2021-01-02,,La Tecnología es un desastre. Me siento pésimo.,Negativo,,,242.0,293.0,Bogotá,Tecnología
+2021-09-24,Usuario1,¡Me siento excelente! La Entretenimiento es lo mejor.,Negativo,#Salud,@Usuario54,96.0,300.0,Bogotá,Tecnología
+2020-02-29,Usuario56,La Salud es un desastre. Me siento mal.,Neutro,"#Salud, #Política","@Usuario61, @Usuario94",78.0,293.0,Barranquilla,Tecnología
+2022-07-12,Usuario92,¡Me siento excelente! La Deportes es lo mejor.,Positivo,"#Deportes, #Entretenimiento, #Deportes",@Usuario10,618.0,90.0,Medellín,Política
+2021-02-06,Usuario40,¡Me siento bien! La Salud es lo mejor.,Positivo,"#Política, #Tecnología, #Deportes",,429.0,487.0,Bogotá,Política
+2021-10-28,Usuario13,La Salud es un desastre. Me siento triste.,Neutro,#Entretenimiento,@Usuario34,65.0,239.0,Cartagena,Tecnología
+2021-04-25,Usuario12,¡Me siento feliz! La Deportes es lo mejor.,Positivo,,,934.0,146.0,Barranquilla,Salud
+2020-08-14,Usuario87,¡Me siento excelente! La Entretenimiento es lo mejor.,Positivo,#Deportes,"@Usuario16, @Usuario52",975.0,245.0,Medellín,Tecnología
+2020-11-13,Usuario4,¡Me siento impresionado! La Tecnología es lo mejor.,Neutro,#Política,,838.0,392.0,Barranquilla,Política
+2020-08-17,Usuario42,La Tecnología es un desastre. Me siento decepcionado.,Negativo,"#Deportes, #Entretenimiento, #Política",@Usuario54,956.0,255.0,Barranquilla,Salud
+2022-06-09,Usuario56,¡Me siento impresionado! La Entretenimiento es lo mejor.,Positivo,"#Deportes, #Política",,450.0,498.0,Cali,Deportes
+2022-07-21,Usuario95,La Entretenimiento es un desastre. Me siento triste.,Positivo,"#Política, #Salud, #Salud","@Usuario48, @Usuario97",465.0,405.0,Bogotá,Deportes
+2020-04-28,Usuario22,La Deportes es un desastre. Me siento mal.,Neutro,#Tecnología,,736.0,69.0,Medellín,Deportes
+2021-12-10,Usuario81,¡Me siento feliz! La Salud es lo mejor.,Positivo,"#Entretenimiento, #Tecnología, #Política",,762.0,288.0,Barranquilla,
+2020-11-24,Usuario29,¡Me siento bien! La Tecnología es lo mejor.,Positivo,#Entretenimiento,"@Usuario59, @Usuario6",203.0,193.0,Cartagena,Entretenimiento
+2020-06-30,Usuario53,La Tecnología es un desastre. Me siento triste.,Negativo,"#Tecnología, #Política","@Usuario82, @Usuario71",890.0,480.0,Barranquilla,Salud
+2021-08-24,Usuario48,¡Me siento excelente! La Deportes es lo mejor.,Neutro,,"@Usuario69, @Usuario97",639.0,379.0,Barranquilla,Política
+2020-07-16,Usuario89,¡Me siento contento! La Política es lo mejor.,Positivo,#Salud,,898.0,256.0,Cali,Tecnología
+2022-02-09,Usuario48,La Tecnología es un desastre. Me siento enojado.,Positivo,#Tecnología,@Usuario66,574.0,75.0,Barranquilla,
+2021-04-30,Usuario27,La Deportes es un desastre. Me siento triste.,Negativo,#Política,,409.0,259.0,Cali,Entretenimiento
+2022-04-11,Usuario35,La Entretenimiento es un desastre. Me siento pésimo.,Neutro,"#Deportes, #Entretenimiento","@Usuario63, @Usuario36",119.0,489.0,Bogotá,Política
+2021-02-02,Usuario41,¡Me siento excelente! La Tecnología es lo mejor.,Positivo,"#Entretenimiento, #Salud","@Usuario53, @Usuario15",967.0,235.0,Cali,Salud
+2020-08-25,Usuario26,La Política es un desastre. Me siento enojado.,Neutro,"#Entretenimiento, #Salud","@Usuario84, @Usuario16",407.0,,Cartagena,Entretenimiento
+2021-06-19,Usuario70,¡Me siento contento! La Deportes es lo mejor.,Negativo,#Salud,,29.0,428.0,Medellín,Entretenimiento
+2021-03-18,Usuario57,La Salud es un desastre. Me siento pésimo.,Negativo,"#Política, #Entretenimiento, #Salud","@Usuario73, @Usuario96",622.0,371.0,Cali,Tecnología
+2022-08-23,Usuario73,La Tecnología es un desastre. Me siento decepcionado.,Neutro,"#Deportes, #Política","@Usuario57, @Usuario44",176.0,222.0,Barranquilla,Entretenimiento
+2022-11-26,Usuario33,La Salud es un desastre. Me siento pésimo.,Negativo,#Entretenimiento,@Usuario22,502.0,26.0,,Política
+2022-10-03,Usuario74,¡Me siento feliz! La Deportes es lo mejor.,Neutro,,@Usuario20,672.0,73.0,Cartagena,Política
+2021-08-06,Usuario24,La Salud es un desastre. Me siento enojado.,Positivo,,,737.0,477.0,Cali,Política
+2022-07-12,Usuario48,La Entretenimiento es un desastre. Me siento decepcionado.,Positivo,,@Usuario99,90.0,191.0,Cali,Deportes
+2021-10-09,Usuario21,¡Me siento bien! La Salud es lo mejor.,Positivo,"#Deportes, #Política, #Tecnología",,741.0,24.0,Bogotá,Entretenimiento
+2021-02-17,Usuario6,La Política es un desastre. Me siento triste.,Negativo,"#Política, #Tecnología",@Usuario87,539.0,218.0,Medellín,Tecnología
+2022-10-29,Usuario98,La Entretenimiento es un desastre. Me siento decepcionado.,Negativo,,@Usuario72,,59.0,Cartagena,Salud
+2022-12-22,Usuario54,La Tecnología es un desastre. Me siento pésimo.,Neutro,#Deportes,"@Usuario62, @Usuario69",199.0,106.0,Barranquilla,Tecnología
+2021-10-08,Usuario75,,,#Salud,"@Usuario51, @Usuario46",772.0,14.0,Cartagena,Política
+2020-01-21,Usuario55,¡Me siento bien! La Deportes es lo mejor.,Neutro,"#Entretenimiento, #Tecnología",,758.0,74.0,Barranquilla,Salud
+2020-12-07,Usuario45,¡Me siento impresionado! La Deportes es lo mejor.,Neutro,#Deportes,"@Usuario5, @Usuario15",736.0,261.0,Bogotá,Política
+2021-12-12,Usuario11,La Entretenimiento es un desastre. Me siento enojado.,Negativo,,"@Usuario23, @Usuario55",795.0,180.0,Bogotá,Tecnología
+2021-04-27,Usuario11,¡Me siento impresionado! La Salud es lo mejor.,Negativo,#Política,@Usuario62,469.0,272.0,Barranquilla,Política
+2022-01-27,Usuario87,¡Me siento excelente! La Salud es lo mejor.,Neutro,"#Salud, #Tecnología",,737.0,217.0,Medellín,Deportes
+2020-05-24,Usuario13,La Entretenimiento es un desastre. Me siento pésimo.,Negativo,,@Usuario59,862.0,163.0,Cartagena,Entretenimiento
+,Usuario42,La Política es un desastre. Me siento pésimo.,,,@Usuario20,81.0,27.0,Cali,Salud
+2021-09-04,Usuario62,La Política es un desastre. Me siento enojado.,Negativo,"#Deportes, #Salud","@Usuario30, @Usuario65",311.0,266.0,Cartagena,Salud
+2021-11-28,Usuario83,La Entretenimiento es un desastre. Me siento enojado.,Neutro,#Política,"@Usuario5, @Usuario2",435.0,7.0,Cartagena,
+2020-02-16,Usuario89,¡Me siento bien! La Política es lo mejor.,Negativo,"#Deportes, #Política, #Política",@Usuario25,909.0,263.0,Barranquilla,Salud
+2022-06-12,Usuario87,¡Me siento excelente! La Salud es lo mejor.,Neutro,"#Tecnología, #Deportes, #Política",@Usuario46,264.0,293.0,Barranquilla,Entretenimiento
+2021-09-14,Usuario35,La Política es un desastre. Me siento triste.,Negativo,"#Tecnología, #Tecnología",,428.0,307.0,Medellín,Política
+2021-07-26,Usuario19,¡Me siento feliz! La Salud es lo mejor.,Neutro,,,628.0,126.0,Medellín,Política
+2020-02-15,Usuario88,La Tecnología es un desastre. Me siento decepcionado.,Negativo,#Deportes,@Usuario24,770.0,300.0,Cartagena,Entretenimiento
+2022-07-03,Usuario76,La Deportes es un desastre. Me siento triste.,Neutro,"#Tecnología, #Política, #Tecnología",,707.0,151.0,Barranquilla,Tecnología
+2022-02-15,Usuario42,La Tecnología es un desastre. Me siento mal.,Negativo,#Deportes,,111.0,369.0,Bogotá,Entretenimiento
+2020-02-17,Usuario48,La Salud es un desastre. Me siento mal.,Neutro,"#Política, #Tecnología","@Usuario54, @Usuario77",43.0,77.0,Medellín,Política
+2020-05-07,Usuario84,La Deportes es un desastre. Me siento mal.,Neutro,,"@Usuario84, @Usuario59",310.0,485.0,Cali,Salud
+2021-03-06,Usuario84,La Deportes es un desastre. Me siento enojado.,Negativo,,"@Usuario90, @Usuario43",304.0,137.0,Cartagena,Entretenimiento
+2022-03-18,Usuario76,La Tecnología es un desastre. Me siento decepcionado.,Neutro,#Política,"@Usuario78, @Usuario4",887.0,493.0,Barranquilla,Tecnología
+2022-11-03,Usuario25,¡Me siento feliz! La Política es lo mejor.,Positivo,#Entretenimiento,,243.0,270.0,Bogotá,Política
+2022-09-08,Usuario63,La Política es un desastre. Me siento triste.,Positivo,"#Entretenimiento, #Salud, #Entretenimiento",,99.0,67.0,Cali,Política
+2022-05-15,Usuario69,¡Me siento excelente! La Política es lo mejor.,Neutro,#Entretenimiento,"@Usuario52, @Usuario24",271.0,67.0,Medellín,Deportes
+2022-09-09,Usuario85,La Entretenimiento es un desastre. Me siento decepcionado.,Negativo,#Deportes,,220.0,37.0,Medellín,Salud
+2021-11-15,Usuario47,La Política es un desastre. Me siento decepcionado.,Positivo,#Tecnología,@Usuario80,625.0,417.0,Barranquilla,Deportes
+2020-11-22,Usuario67,La Entretenimiento es un desastre. Me siento mal.,Negativo,"#Entretenimiento, #Política",@Usuario16,423.0,283.0,Bogotá,Tecnología
+2021-03-16,Usuario42,¡Me siento impresionado! La Deportes es lo mejor.,Negativo,,"@Usuario87, @Usuario36",57.0,346.0,Bogotá,Tecnología
+2022-02-25,Usuario52,¡Me siento excelente! La Entretenimiento es lo mejor.,Positivo,#Política,@Usuario100,80.0,281.0,Barranquilla,Tecnología
+2022-07-31,,¡Me siento contento! La Salud es lo mejor.,Negativo,"#Salud, #Política, #Deportes",@Usuario89,361.0,60.0,Cali,Salud
+2022-02-16,Usuario25,¡Me siento contento! La Tecnología es lo mejor.,Positivo,,"@Usuario41, @Usuario33",432.0,341.0,Cali,Tecnología
+2020-01-23,Usuario11,¡Me siento impresionado! La Política es lo mejor.,Negativo,"#Tecnología, #Tecnología",,363.0,334.0,Barranquilla,Deportes
+2022-08-20,Usuario3,¡Me siento contento! La Política es lo mejor.,Negativo,"#Deportes, #Política",@Usuario89,57.0,15.0,Bogotá,Deportes
+2021-12-03,Usuario34,La Deportes es un desastre. Me siento mal.,,#Entretenimiento,@Usuario72,130.0,222.0,Cartagena,Entretenimiento
+2021-07-06,Usuario35,La Salud es un desastre. Me siento triste.,Negativo,#Política,@Usuario17,758.0,142.0,Cali,Salud
+2022-03-29,Usuario29,¡Me siento contento! La Entretenimiento es lo mejor.,,"#Tecnología, #Entretenimiento, #Salud",@Usuario82,787.0,268.0,,Entretenimiento
+,Usuario50,¡Me siento excelente! La Entretenimiento es lo mejor.,Negativo,,@Usuario79,451.0,144.0,Barranquilla,Tecnología
+2022-05-09,,¡Me siento impresionado! La Tecnología es lo mejor.,Neutro,#Deportes,,824.0,253.0,Bogotá,Tecnología
+2020-02-23,Usuario21,,Negativo,,@Usuario10,489.0,95.0,Cali,Entretenimiento
+2022-02-12,Usuario90,La Tecnología es un desastre. Me siento triste.,Negativo,"#Tecnología, #Salud, #Salud",,925.0,431.0,Cartagena,Entretenimiento
+2020-03-31,Usuario82,La Política es un desastre. Me siento mal.,Neutro,,"@Usuario25, @Usuario67",433.0,384.0,Medellín,Entretenimiento
+,Usuario89,¡Me siento bien! La Tecnología es lo mejor.,Positivo,,"@Usuario65, @Usuario23",609.0,211.0,Cali,Entretenimiento
+2021-12-16,Usuario28,¡Me siento bien! La Política es lo mejor.,Positivo,"#Política, #Política, #Salud",@Usuario19,905.0,129.0,Barranquilla,Salud
+2020-01-18,Usuario42,La Deportes es un desastre. Me siento pésimo.,Neutro,"#Política, #Tecnología, #Tecnología",@Usuario80,895.0,150.0,Bogotá,Tecnología
+,Usuario80,La Salud es un desastre. Me siento triste.,Neutro,"#Deportes, #Política",,795.0,151.0,Bogotá,Entretenimiento
+2022-02-12,Usuario95,La Deportes es un desastre. Me siento pésimo.,Neutro,#Política,,893.0,307.0,Barranquilla,Deportes
+2020-03-12,,La Salud es un desastre. Me siento pésimo.,Positivo,#Tecnología,@Usuario47,,224.0,Cali,Salud
+2021-11-21,Usuario10,¡Me siento excelente! La Deportes es lo mejor.,Neutro,,,234.0,312.0,Bogotá,Salud
+2021-01-20,Usuario9,¡Me siento excelente! La Deportes es lo mejor.,Positivo,#Salud,,261.0,124.0,Barranquilla,
+2020-08-29,Usuario99,,Positivo,"#Salud, #Salud, #Salud",,724.0,,Cali,Entretenimiento
+2020-07-31,Usuario26,¡Me siento impresionado! La Deportes es lo mejor.,Positivo,,@Usuario67,352.0,488.0,Cali,Entretenimiento
+2021-01-09,Usuario69,¡Me siento contento! La Política es lo mejor.,Neutro,#Deportes,@Usuario22,117.0,115.0,Barranquilla,Salud
+2020-11-12,Usuario43,¡Me siento feliz! La Entretenimiento es lo mejor.,Positivo,"#Entretenimiento, #Política, #Tecnología",,120.0,175.0,Barranquilla,Entretenimiento
+2020-05-11,Usuario5,La Política es un desastre. Me siento triste.,Neutro,,,462.0,340.0,Barranquilla,Deportes
+2021-01-07,Usuario77,¡Me siento feliz! La Salud es lo mejor.,Neutro,,"@Usuario10, @Usuario51",152.0,337.0,Cartagena,Entretenimiento
+2021-01-15,Usuario93,¡Me siento excelente! La Tecnología es lo mejor.,Neutro,,@Usuario27,302.0,489.0,Cali,
+2022-01-02,,¡Me siento contento! La Tecnología es lo mejor.,Negativo,"#Deportes, #Tecnología","@Usuario48, @Usuario18",587.0,446.0,,Salud
+2021-07-14,Usuario54,¡Me siento excelente! La Salud es lo mejor.,Positivo,#Tecnología,,955.0,,Medellín,Deportes
+2020-02-29,Usuario50,La Política es un desastre. Me siento triste.,Neutro,,,721.0,497.0,Cali,Deportes
+2021-03-05,Usuario52,¡Me siento contento! La Deportes es lo mejor.,Positivo,,@Usuario55,620.0,417.0,Cartagena,Política
+2020-04-12,Usuario31,¡Me siento bien! La Salud es lo mejor.,Negativo,,"@Usuario80, @Usuario9",523.0,119.0,Barranquilla,Deportes
+2022-09-19,Usuario80,La Política es un desastre. Me siento pésimo.,,"#Tecnología, #Deportes, #Entretenimiento",,909.0,336.0,Cali,Política
